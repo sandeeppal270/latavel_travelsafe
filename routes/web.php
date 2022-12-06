@@ -185,3 +185,4 @@ Route::controller(CitycrimeController::class)->group(function(){
 
 
 
+

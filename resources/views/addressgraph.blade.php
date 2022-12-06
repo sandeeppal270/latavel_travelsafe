@@ -150,13 +150,8 @@ chart.render();
 </script>
 <div id="chartContainer" style="height: 370px; width: 100%;"></div>
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-</div>
-
-
-
-
-
-                    </div>
+        </div>
+                     </div>
                   </div>
                 </div>
          
