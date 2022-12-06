@@ -6,7 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Travel Safely</title>
 </head>
+{{-- @include('header') --}}
 <body>
+
     @extends('users.layout')
     {{-- @include('sidebar') --}}
     @section('content')
