@@ -42,5 +42,9 @@
         </div>
     </div>
 @stop
+
 </body>
+{{-- @include('footer') --}}
+
 </html>
+
